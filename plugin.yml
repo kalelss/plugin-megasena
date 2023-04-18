@@ -1,0 +1,6 @@
+main: me.DevKaL.megasena.main.Main
+name: K-MegaSena
+version: 1.0
+author: _KaLeL
+commands:
+    megasena:

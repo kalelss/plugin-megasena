@@ -1,0 +1,12 @@
+Aposta:
+  valor: 150000
+
+Premio:
+  valor:
+
+Mensagem_sorteio:
+  - '&bDias do sorteio:'
+  - '&b- Terça-feira ás 13:00 horas'
+  - '&b- Quinta-feira ás 13:00 horas'
+  - '&b- Domingo ás 17:00 horas'
+  - '&bFaça sua aposta e Boa sorte.'
